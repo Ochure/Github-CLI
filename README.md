@@ -7,3 +7,5 @@
  Displays the activity in a readable format in the terminal.
  Handles errors gracefully, such as invalid usernames or API failures.
   Built without the use of external libraries for data fetching.
+
+  https://roadmap.sh/projects/github-user-activity
